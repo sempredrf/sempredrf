@@ -27,8 +27,8 @@
 ### Ferramentas e Tecnologias
 <div align="center">   
   <div style="display: inline_block"><br>  
-    <img align="center" alt="diego-delphi" height="40" width="40" title="Delphi" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" />
-    <img align="center" alt="diego-firemonkey" height="40" width="40" title="Firemonkey" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/FireMonkeyLogo.svg/1024px-FireMonkeyLogo.svg.png" />
+    <img align="center" alt="diego-delphi" height="40" width="40" title="Delphi" src="https://en.wikipedia.org/wiki/File:Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" />
+    <img align="center" alt="diego-firemonkey" height="40" width="40" title="Firemonkey" src="https://en.wikipedia.org/wiki/File:FireMonkeyLogo.svg" />
     <img align="center" alt="diego-Ts" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="diego-nest" height="40" width="40" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     <img align="center" alt="diego-React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">      
